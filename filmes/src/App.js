@@ -1,11 +1,11 @@
-
-
-function App() {
+import Routes from "./routes";
+import './styles.css';
+export default function App() {
   return (
-    <div >
-      <h1>Filmes</h1>
+    <div className="app">
+      <Routes />
     </div>
   );
 }
 
-export default App;
+//https://sujeitoprogramador.com/r-api/?api=filmes
