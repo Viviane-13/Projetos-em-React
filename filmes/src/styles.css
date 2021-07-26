@@ -3,6 +3,7 @@ body{
   padding: 0;
   box-sizing: border-box;
   font-family: sans-serif;
+  background-color: black;
 }
 .app{
   display: flex;
