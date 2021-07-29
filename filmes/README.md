@@ -8,7 +8,7 @@
 </h1>
 
 
-# Página de Detalhes do Aplicação
+# Página de Detalhes do Filme
 <p>Nesta sessão é possivel ler a sinopse do filme e salvar o filme ou ver o Trailer.</p>
 <h1 align="center">
     <img alt="Filmes" title="Filmes" src=".github/filmes-detalhes.png" />
