@@ -1,0 +1,70 @@
+.container {
+  display: flex;
+  background-color: #f8f8f8;
+  border-radius: 5px;
+  padding: 0.8em;
+  align-items: center;
+  margin-bottom: 1em;
+}
+.label-avatar {
+  width: 280px;
+  height: 280px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  cursor: pointer;
+}
+.label-avatar input {
+  display: none;
+}
+
+.label-avatar span {
+  z-index: 99;
+  position: absolute;
+  opacity: 0.7;
+  transition: all 0.5s;
+}
+.label-avatar span:hover {
+  opacity: 1;
+  transform: scale(1.4);
+}
+
+.form-profile img {
+  margin-bottom: 1em;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.form-profile label {
+  margin-bottom: 0.5em;
+  font-size: 1.4em;
+}
+
+.form-profile input,
+textarea,
+select {
+  margin-bottom: 1em;
+  padding: 0.7em;
+  border: 0;
+  border-radius: 5px;
+  max-width: 600px;
+}
+
+.form-profile input:disabled {
+  cursor: not-allowed;
+}
+
+.form-profile button {
+  max-width: 600px;
+}
+.logout-btn {
+  padding: 8px 20px;
+  background-color: transparent;
+  border: 1px solid #121212;
+  border-radius: 5px;
+  font-size: 1.3em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
