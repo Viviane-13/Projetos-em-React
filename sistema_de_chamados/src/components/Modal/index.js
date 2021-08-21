@@ -13,21 +13,21 @@ export default function Modal({ conteudo, close }) {
           <h2>Detalhes do chamado</h2>
           <div className="row">
             <span>
-              Cliente: <a>{conteudo.cliente}</a>
+              Cliente: <innerWidth>{conteudo.cliente}</innerWidth>
             </span>
           </div>
           <div className="row">
             <span>
-              Assunto: <a>{conteudo.assunto}</a>
+              Assunto: <i>{conteudo.assunto}</i>
             </span>
             <span>
-              Cadastrado em: <a>{conteudo.createdFormated}</a>
+              Cadastrado em: <i>{conteudo.createdFormated}</i>
             </span>
           </div>
           <div className="row">
             <span>
               Status:{" "}
-              <a
+              <i
                 style={{
                   color: "#fff",
                   backgroundColor:
@@ -35,7 +35,7 @@ export default function Modal({ conteudo, close }) {
                 }}
               >
                 {conteudo.status}
-              </a>
+              </i>
             </span>
           </div>
 

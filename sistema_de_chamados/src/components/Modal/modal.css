@@ -30,6 +30,7 @@
   align-items: center;
   padding: 4px 15px;
   border-radius: 5px;
+  cursor: pointer;
 }
 .close svg {
   margin-right: 5px;
@@ -43,7 +44,7 @@
   font-size: 1.2em;
   color: #121212;
 }
-.modal span a {
+.modal span i {
   font-weight: 400;
   margin-right: 1em;
   padding: 2px 8px;
