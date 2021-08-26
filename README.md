@@ -22,3 +22,5 @@ Repositório de aplicações desenvolvidas em ReactJS. Cada aplicação traz con
 <h1 align="center">
     <img alt="SDC" title="SDC" src="sistema_de_chamados/.github/login.jpg" />
 </h1>
+
+Made with 💜 by Viviane Oliveira
