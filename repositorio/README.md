@@ -2,7 +2,8 @@
 
 A aplicação tem o objetivo de salvar repositórios favoritos.
 
-- https://github.com/Viviane-13/Projetos-em-React/tree/master/repositorio
+#### Acesse:
+- https://repos-favoritos.netlify.app/
 
 ### Página Home da Aplicação
 
