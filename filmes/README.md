@@ -14,6 +14,7 @@
     <img alt="Filmes" title="Filmes" src=".github/filmes-detalhes.png" />
 </h1>
 
+
 # Follow the steps below:
 ```bash
 # Install the dependencies
