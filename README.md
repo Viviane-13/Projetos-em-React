@@ -3,8 +3,10 @@
 Repositório de aplicações desenvolvidas em ReactJS. Cada aplicação traz conceitos importantes da biblioteca do React JS
 
 ## Projeto Filmes
+
 - Deploy: https://filmes-sujeito.netlify.app/
 - https://github.com/Viviane-13/Projetos-em-React/tree/master/filmes
+
 ### Página Home da Aplicação
 
 <p>Nesta sessão é possivel acessar a lista de filmes disponiveis no projeto.</p>
@@ -12,8 +14,8 @@ Repositório de aplicações desenvolvidas em ReactJS. Cada aplicação traz con
     <img alt="Filmes" title="Filmes" src="filmes/.github/filmes-home.png" />
 </h1>
 
-
 ## Sistema de Chamados
+
 - Acesse: https://sistema-45837.web.app/
 - https://github.com/Viviane-13/Projetos-em-React/tree/master/sistema_de_chamados
 
@@ -24,6 +26,7 @@ Repositório de aplicações desenvolvidas em ReactJS. Cada aplicação traz con
 </h1>
 
 ## Repositorios Favoritos
+
 - Acesse: https://repos-favoritos.netlify.app/
 - https://github.com/Viviane-13/Projetos-em-React/tree/master/repositorio
 
@@ -31,4 +34,4 @@ Repositório de aplicações desenvolvidas em ReactJS. Cada aplicação traz con
     <img alt="Repositorios" title="Repositorios" src="repositorio/.github/home.jpg" />
 </h1>
 
-Made with 💜 by Viviane Oliveira
+<p align='center'>Made with 💜 by Viviane Oliveira</p>
