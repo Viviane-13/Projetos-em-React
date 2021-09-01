@@ -17,4 +17,4 @@ A aplicação tem o objetivo de salvar repositórios favoritos.
     <img alt="Filmes" title="Filmes" src=".github/repositorio.jpg" />
 </h1>
 
-Made with 💜 by Viviane Oliveira
+<p align="center">Made with 💜 by Viviane Oliveira</p>
